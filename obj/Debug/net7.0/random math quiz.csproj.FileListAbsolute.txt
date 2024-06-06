@@ -1,0 +1,15 @@
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\bin\Debug\net7.0\random math quiz.exe
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\bin\Debug\net7.0\random math quiz.deps.json
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\bin\Debug\net7.0\random math quiz.runtimeconfig.json
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\bin\Debug\net7.0\random math quiz.dll
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\bin\Debug\net7.0\random math quiz.pdb
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\obj\Debug\net7.0\random math quiz.csproj.AssemblyReference.cache
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\obj\Debug\net7.0\random math quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\obj\Debug\net7.0\random math quiz.AssemblyInfoInputs.cache
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\obj\Debug\net7.0\random math quiz.AssemblyInfo.cs
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\obj\Debug\net7.0\random math quiz.csproj.CoreCompileInputs.cache
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\obj\Debug\net7.0\random math quiz.dll
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\obj\Debug\net7.0\refint\random math quiz.dll
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\obj\Debug\net7.0\random math quiz.pdb
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\obj\Debug\net7.0\random math quiz.genruntimeconfig.cache
+C:\Users\Ludvik\Desktop\VS Projects\C# random practice hovna\practice projects\random math quiz\obj\Debug\net7.0\ref\random math quiz.dll
